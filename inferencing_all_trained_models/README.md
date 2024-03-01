@@ -1,9 +1,8 @@
-# Models Demo with LangChain
+# Inferencing the Models 
 
-- This directory contains five ipynb scripts, each dedicated to setting up a model with LangChain.
-- Each notebook is named after the corresponding model it demonstrates.
-- Furthermore, detailed instructions and guidance on usage can be found inside each script.
-- **Important**: Running models for inference requires substantial GPU and memory resources.
+This directory contains two subdirectories:
+- [all_models_used_with_langchain](https://github.com/REELICIT/reqbrain_rep_package/tree/94904b061acb24706c26e93a088ee48dc49ff80d/inferencing_all_trained_models/all_models_used_with_langchain) contains five ipynb scripts, each dedicated to setting up the five trained model with LangChain for demo.
+- [data_science_experiment_for_RQs_2_3_4](https://github.com/REELICIT/reqbrain_rep_package/tree/94904b061acb24706c26e93a088ee48dc49ff80d/inferencing_all_trained_models/data_science_experiment_for_RQs_2_3_4) contains all the results  for the experiment used in the paper
 
 
 ## What is LangChain?
