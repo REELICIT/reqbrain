@@ -5,7 +5,7 @@ This GitHub project contains all the necessary documents, files and scripts for 
 A description of each above listed directories is provided below. For all directories, see directory README for more description.<br>
 
 
-1. [instruct_datasets](https://github.com/REELICIT/reqbrain_rep_package/tree/6e1cd7b298a4614935f24599932f77af30bc1904/instruct_datasets) contains training and evaluation sets in three format. Different LLM models require data in different formats.
+1. [instruct_datasets](https://github.com/REELICIT/reqbrain_rep_package/instruct_datasets) contains training and evaluation sets in three format. Different LLM models require data in different formats.
 2. [training_scripts](https://github.com/REELICIT/reqbrain_rep_package/tree/6e1cd7b298a4614935f24599932f77af30bc1904/training_scripts) contain three scripts and logs generated during training in ```.ipynb``` format. Five notebooks, one per trained model in the paper.
 3. [evaluation_scripts](https://github.com/REELICIT/reqbrain_rep_package/tree/6e1cd7b298a4614935f24599932f77af30bc1904/evaluation_scripts) contains all scripts for numarical evaluation mostly used for **RQ1** and figures.
 4. [inferencing_all_trained_models](https://github.com/REELICIT/reqbrain_rep_package/tree/6e1cd7b298a4614935f24599932f77af30bc1904/inferencing_all_trained_models) contains all resutls for **RQ 2, 3, 4** for the experiment.  
