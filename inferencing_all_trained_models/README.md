@@ -6,5 +6,5 @@
 - **Important**: Running models for inference requires substantial GPU and memory resources.
 
 
-## What is LangChain
+## What is LangChain?
 LangChain is a framework designed to simplify the creation of applications using large language models. To learn more about LangChain click [here](https://python.langchain.com/docs/get_started/introduction).
