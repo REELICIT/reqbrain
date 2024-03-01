@@ -1,0 +1,56 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "REQID_ex": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "completion": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "query": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "class": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "task": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "label": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "mistral_ai_instruct_7b_chat_hf_preds": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "falcon_7b_base_preds": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "falcon_7b_instruct_preds": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "llama2_7b_chat_hf_preds": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "zephyr_7b_beta_preds": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
