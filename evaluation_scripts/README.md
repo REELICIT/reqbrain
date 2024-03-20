@@ -9,4 +9,4 @@ This directory contains the script for all necessary numerical evaluations used 
 
 
 
-![Figure 1 Description](./ReqBrain.pdf)
+![Figure 1 Description](evaluation_scripts/ReqBrain.pdf)
