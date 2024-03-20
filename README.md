@@ -2,7 +2,7 @@
 
 This GitHub project contains all the necessary documents, files and scripts for replicating **Requirement Brain (ReqBrain)**.<br><br>
 ***NOTE:*** 
-- Notebooks runing the models require a GPU with minimum of 32GB GPU memory is required to load the model!"
+- Notebooks runing the models require a GPU with minimum of 32GB GPU memory is required to load the model!
 - The sizes of the trained models are big. Therefore, the five trained models are provided on the [Hugging Face](https://huggingface.co/REELICIT) project of ReqBrain. For training scripts and the **direct link to each trained model visit** **[training_scripts directory](https://github.com/REELICIT/reqbrain_rep_package/tree/main/training_scripts)**. <br><br>
 A description of each above listed directories is provided below. For all directories, see directory README for more description.<br>
 
