@@ -7,7 +7,3 @@ This directory contains the script for all necessary numerical evaluations used 
 - [evaluation_two_metric.ipynb](https://github.com/REELICIT/reqbrain_rep_package/blob/3344cfbf610656025f7c0cfa9ae7a313bfdcd0c6/evaluation_scripts/evaluation_two_metric.ipynb) contains numerical evaluation results for **RQ 1**
 - [paper_visualisations.ipynb](https://github.com/REELICIT/reqbrain_rep_package/blob/3344cfbf610656025f7c0cfa9ae7a313bfdcd0c6/evaluation_scripts/paper_visualisations.ipynb) contians the generation of the graphics used on the paper.
 
-
-
-
-<a href="https://github.com/REELICIT/reqbrain_rep_package/blob/23c64a63ea1223fc994cd792fe35d37e29813981/evaluation_scripts/ReqBrain.pdf" target="_blank">View PDF</a>
