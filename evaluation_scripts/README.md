@@ -10,4 +10,4 @@ This directory contains the script for all necessary numerical evaluations used 
 
 
 
-<img src="https://github.com/REELICIT/reqbrain_rep_package/blob/23c64a63ea1223fc994cd792fe35d37e29813981/evaluation_scripts/ReqBrain.pdf" alt="Figure 1 Description" width="400"/>
+![Alt text](https://github.com/REELICIT/reqbrain_rep_package/blob/23c64a63ea1223fc994cd792fe35d37e29813981/evaluation_scripts/ReqBrain.pdf)
