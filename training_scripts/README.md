@@ -12,7 +12,7 @@ This directory contains the training scripts used to train our models.
 
 The trained models are pushed to **Hugging Face** API.
 
-| Training Script | Corresponding Trained Model |
+| Training Script | Corresponding Trained Model on Hugging Face Hub |
 |-----------------|-----------------------------|
 | [train_falcone-base.ipynb](https://github.com/REELICIT/reqbrain_rep_package/blob/main/training_scripts/train_falcone-base.ipynb)               | [falcon-7b-ReqBrain](https://huggingface.co/REELICIT/falcon-7b-ReqBrain)                           |
 | [train_falcone-instruct.ipynb](https://github.com/REELICIT/reqbrain_rep_package/blob/main/training_scripts/train_falcone-instruct.ipynb)               | [falcon-7b-instruct-ReqBrain](https://huggingface.co/REELICIT/falcon-7b-instruct-ReqBrain)                           |
