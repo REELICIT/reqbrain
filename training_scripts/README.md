@@ -2,7 +2,7 @@
 
 This directory contains the training scripts used to train our models.
 
-- Running and loading models require GPU with minimum of 32GB GPU memory.
+- Running and loading models require GPU with a minimum of 32GB GPU memory.
 - Links to open on google colab are provided at top of each notebook.
 - One training script per model; total of five, is provided and each script is named after the model it tunes.
 - The training scripts are built using Jupyter Notebooks with guides for understanding and training logs are included.
