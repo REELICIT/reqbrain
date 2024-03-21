@@ -9,5 +9,5 @@ A description of each above listed directories is provided below. For all direct
 
 1. [instruct_datasets](https://github.com/REELICIT/reqbrain_rep_package/tree/main/instruct_datasets) contains training and evaluation sets in three format. Different LLM models require data in different formats.
 2. [training_scripts](https://github.com/REELICIT/reqbrain_rep_package/tree/ad13442f332668a8a25d45e0395917a7ba383af3/training_scripts) contain three scripts and logs generated during training in ```.ipynb``` format. Five notebooks, one per trained model in the paper.
-3. [evaluation_scripts](https://github.com/REELICIT/reqbrain_rep_package/tree/94d24c635355a5e1d3e6fb53618b8d202325df64/evaluation_scripts) contains all scripts for numarical evaluation used for **RQ1** and figures.
+3. [evaluation_scripts](https://github.com/REELICIT/reqbrain_rep_package/tree/30096c1ace66ba8dcb5829cba919f41fe7b65129/evaluation_scripts) contains all scripts for numarical evaluation used for **RQ1** and figures.
 4. [inferencing_all_trained_models](https://github.com/REELICIT/reqbrain_rep_package/tree/93e105ce4b86dc1783900e71b985a74f057f4c99/inferencing_all_trained_models) contains all resutls for **RQ 2, 3, 4** for the experiment.  
