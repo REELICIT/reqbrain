@@ -7,6 +7,8 @@ This GitHub project contains all the necessary documents, files and scripts for 
 A description of each above listed directories is provided below. For all directories, see directory README for more description.<br>
 
 
+## Directories Description:
+
 1. **instruct_datasets:** contains training and evaluation sets in three format. Different LLM models require data in different formats.
 2. **training_scripts:** contain three scripts and logs generated during training in ```.ipynb``` format. Five notebooks, one per trained model in the paper.
 3. **evaluation_scripts:** contains all scripts for numarical evaluation used for **RQ1** and figures.
